@@ -5,4 +5,4 @@ Currently supports conversion to USD. Addition of other currencies is rather sim
 
 ![ulauncher-btc extension screenshot](screenshot.png)
 
-Buy me a beer: `1noam7B3gSY4LHAXL8tXZBG1PqhAG7ixB`
+Buy me a 🍺 `1noam7B3gSY4LHAXL8tXZBG1PqhAG7ixB`
