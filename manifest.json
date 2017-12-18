@@ -1,7 +1,7 @@
 {
   "manifest_version": "1",
   "api_version": "1",
-  "name": "Bitcoin Rate",
+  "name": "Bitcoin",
   "description": "Display current Bitcoin rate",
   "developer_name": "noam09",
   "icon": "images/icon.png",
